@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Cody Wood
+title: Seeking Software Engineering / IT Roles
+email: temp.CodyWood@gmail.com
+website: www.github.com/codywood
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -113,7 +113,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
