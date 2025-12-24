@@ -9,23 +9,23 @@ version: 2
 name: Cody Wood
 title: Seeking Software Engineering / IT Roles
 email: temp.CodyWood@gmail.com
-website: www.github.com/codywood
+website: www.github.com/t00nz
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  t00nz
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: cody-wood-6219262aa
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,18 +46,32 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/CodyAvatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a graduate of SIUE with a Bachelor's in Computer Science. I have a passion for technology and aspire to grow as a software developer. 
+  
+  As someone who values diligence and always strives to do my best in everything I take on, I approach challenges analytically and enjoy solving problems with creative, efficient solutions. Whether it's work, studies, or personal growth, I focus on the task at hand and give it my all. At the same time, I stay balanced with a calm and relaxed attitude. I believe in being considerate of others, always listening and offering support when needed while also creating a positive and thoughtful environment.
+  
+  I am most skilled in: <mark>OOP (C#, C++, C, Java, Python)</mark> and <mark>JavaScript</mark>
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have experience in:
+  -Agile Development Life Cycle
+  -Git for Version Control
+  -Working with a client to gather requirements and provide updates
+  -Testing and debugging applications to identify potential problems
+  -RDBMS concepts and SQL
+  -Networking and Data Communications
+  -Azure Directory
+  -RESTful APIs
+  -Unity
+  -Installing Computer Hardware/Drivers
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Plant Eye
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -68,9 +82,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Bring life to the world.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Near high-throughput system to automate the image processing of plants, and then upload image dataset to OneDrive. Senior Project for school. Used Android Studio to develop and used Git for version control.
+          Skills: Front-End Development · Agile Methodologies · Java · Agile Testing · Software Development · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Design Patterns · Software Testing · Programming · Problem Solving · Git
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
