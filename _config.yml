@@ -49,11 +49,12 @@ linkedin_username: cody-wood-6219262aa
 about_profile_image: images/CodyAvatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I’m a Computer Science graduate from **Southern Illinois University Edwardsville (SIUE)** with a strong interest in software development and problem-solving.
-  
-  I enjoy approaching challenges analytically while building efficient, maintainable solutions. I value collaboration, clear communication, and continuous learning, and I bring a calm, focused mindset to both team and individual work.
+  I’m a Computer Science graduate from Southern Illinois University Edwardsville (SIUE) with a strong interest in software development and problem-solving.
 
-  ## Technical Skills
+  I enjoy approaching challenges analytically while building efficient, maintainable solutions, and I value collaboration, clear communication, and continuous learning.
+  
+  ---
+  ## Skills Snapshot
 
   **Programming Languages**
   - C#, Java, Python, JavaScript, C++, C
