@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Cody Wood
-title: Seeking Software Engineering / IT Roles
-email: temp.CodyWood@gmail.com
+title: Software Engineer / IT Graduate
+email: woodcody.com
 website: www.github.com/t00nz
 
 # Dark Mode (true/false/never)
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   ## Skills Snapshot
 
   **Programming Languages**
-  - C#, Java, Python, JavaScript, C++, C
+  - C#, Java, JavaScript, Python, C++, C
   
   **Core Concepts**
   - Object-Oriented Programming (OOP)
